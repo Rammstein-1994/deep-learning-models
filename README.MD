@@ -1,1 +1,1 @@
-# Implemetation for Deep Learning Models 
+# Deep Learning Models from Scratch by Pytorch
